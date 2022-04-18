@@ -1,0 +1,13 @@
+C:\C#\Projetos\AreaTrianguloHeron\AreaTrianguloHeron\bin\Debug\netcoreapp2.1\AreaTrianguloHeron.deps.json
+C:\C#\Projetos\AreaTrianguloHeron\AreaTrianguloHeron\bin\Debug\netcoreapp2.1\AreaTrianguloHeron.runtimeconfig.json
+C:\C#\Projetos\AreaTrianguloHeron\AreaTrianguloHeron\bin\Debug\netcoreapp2.1\AreaTrianguloHeron.runtimeconfig.dev.json
+C:\C#\Projetos\AreaTrianguloHeron\AreaTrianguloHeron\bin\Debug\netcoreapp2.1\AreaTrianguloHeron.dll
+C:\C#\Projetos\AreaTrianguloHeron\AreaTrianguloHeron\bin\Debug\netcoreapp2.1\AreaTrianguloHeron.pdb
+C:\C#\Projetos\AreaTrianguloHeron\AreaTrianguloHeron\obj\Debug\netcoreapp2.1\AreaTrianguloHeron.csproj.AssemblyReference.cache
+C:\C#\Projetos\AreaTrianguloHeron\AreaTrianguloHeron\obj\Debug\netcoreapp2.1\AreaTrianguloHeron.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\Projetos\AreaTrianguloHeron\AreaTrianguloHeron\obj\Debug\netcoreapp2.1\AreaTrianguloHeron.AssemblyInfoInputs.cache
+C:\C#\Projetos\AreaTrianguloHeron\AreaTrianguloHeron\obj\Debug\netcoreapp2.1\AreaTrianguloHeron.AssemblyInfo.cs
+C:\C#\Projetos\AreaTrianguloHeron\AreaTrianguloHeron\obj\Debug\netcoreapp2.1\AreaTrianguloHeron.csproj.CoreCompileInputs.cache
+C:\C#\Projetos\AreaTrianguloHeron\AreaTrianguloHeron\obj\Debug\netcoreapp2.1\AreaTrianguloHeron.dll
+C:\C#\Projetos\AreaTrianguloHeron\AreaTrianguloHeron\obj\Debug\netcoreapp2.1\AreaTrianguloHeron.pdb
+C:\C#\Projetos\AreaTrianguloHeron\AreaTrianguloHeron\obj\Debug\netcoreapp2.1\AreaTrianguloHeron.genruntimeconfig.cache
